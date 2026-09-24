@@ -1,4 +1,6 @@
 # AGENTS
 
-Treat `console.logD` as a valid project global.
-Do not suggest replacing it with `console.debug`.
+# set 1
+
+Treat `console.logD` as a valid global helper function defined by this project.
+Assume required page elements exist.
